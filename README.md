@@ -46,11 +46,11 @@
 
 <dl>
 <dt>Day 2 Objective:</dt>
-<ul>
 
-    <li>Dive into HTML  
+  
         <ol>
         <li>More tags</li>
+            <li>Dive into HTML </li>
         <li>More attributes</li>
         <li>Use the proper tags</li>
       </ol>
@@ -60,7 +60,6 @@
     <li>Understand the basic elements of images: the different types of images format (jpeg, gif, png etc.), image dimensions, tools to edit and save images, and where and how to use images in a web page.  </li>
  </ul>
 
-</dl>
 
 <q>BOOK NAME</q>
 <blockquote cite="">
