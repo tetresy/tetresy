@@ -40,11 +40,6 @@
 <dd>Apple Juice</dd>
 </dl>
 
-
-
-
-
-<dl>
 <dt>Day 2 Objective:</dt>
 
   
@@ -53,11 +48,8 @@
             <li>Dive into HTML </li>
         <li>More attributes</li>
         <li>Use the proper tags</li>
-     
- 
-    
-    <li>Use tags to create three different types of HTML lists: ordered, unordered, and definition lists. </li>
-    <li>Understand the basic elements of images: the different types of images format (jpeg, gif, png etc.), image dimensions, tools to edit and save images, and where and how to use images in a web page.  </li>
+      <li>Use tags to create three different types of HTML lists: ordered, unordered, and definition lists. </li>
+    <li>Understand the basic elements of images: the different types of images format (jpeg, gif, png etc.),   </li>
  </ol>
 
 
