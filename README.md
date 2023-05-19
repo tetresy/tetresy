@@ -43,14 +43,14 @@
 <dt>Day 2 Objective:</dt>
 
   
-        <ol>
+        <ul>
         <li>More tags</li>
             <li>Dive into HTML </li>
         <li>More attributes</li>
         <li>Use the proper tags</li>
       <li>Use tags to create three different types of HTML lists: ordered, unordered, and definition lists. </li>
     <li>Understand the basic elements of images: the different types of images format (jpeg, gif, png etc.),   </li>
- </ol>
+ </ul>
 
 
 <q>BOOK NAME</q>
