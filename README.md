@@ -21,7 +21,7 @@
     
 <!-- ordered list, unorderd list, describtion list -->
 
-<ol start="A">
+<ol start="a">
 <li><b>Intro</b></li>
 <li>HTML</li>
 </ol>
